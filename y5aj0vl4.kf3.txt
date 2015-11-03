@@ -1,0 +1,58 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	new file:   Trail_of_Space_CIT_260
+#	new file:   build.xml
+#	new file:   manifest.mf
+#	new file:   nbproject/build-impl.xml
+#	new file:   nbproject/genfiles.properties
+#	new file:   nbproject/project.properties
+#	new file:   nbproject/project.xml
+#	new file:   src/byui/cit260/curiousWorkmanship/model/Player.java
+#	new file:   src/byui/cit260/curiousWorkmanship/model/Serializable.java
+#	new file:   src/byui/cit260/curiousWorkmanship/model/ancientAlienBattle.java
+#	new file:   src/byui/cit260/curiousWorkmanship/model/armor.java
+#	new file:   src/byui/cit260/curiousWorkmanship/model/battle.java
+#	new file:   src/byui/cit260/curiousWorkmanship/model/characters.java
+#	new file:   src/byui/cit260/curiousWorkmanship/model/game.java
+#	new file:   src/byui/cit260/curiousWorkmanship/model/inventory.java
+#	new file:   src/byui/cit260/curiousWorkmanship/model/location.java
+#	new file:   src/byui/cit260/curiousWorkmanship/model/map.java
+#	new file:   src/byui/cit260/curiousWorkmanship/model/ship.java
+#	new file:   src/byui/cit260/curiousWorkmanship/model/spaceCaves.java
+#	new file:   src/byui/cit260/curiousWorkmanship/model/weapon.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/AncientAlienBattle.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/Armor.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/ArmorItems.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/Battle.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/BattleStatus.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/Character.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/CharacterLocations.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/Game.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/GameStatus.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/Health.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/InventoryControl.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/InventoryItem.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/LocationStatus.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/Locations.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/Map.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/MapStatus.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/Player.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/PlayerStatus.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/ShipControl.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/ShipStatus.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/SpaceCaveItem.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/SpaceCaves.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/WeaponItem.java
+#	new file:   src/citbyui/cit260/curiousworkmanship/control/Weapons.java
+#	new file:   src/trailofspace/TrailofSpace.java
+#	new file:   test/citbyui/cit260/curiousworkmanship/control/BattleStatusTest.java
+#	new file:   test/citbyui/cit260/curiousworkmanship/control/BattleTest.java
+#	new file:   test/citbyui/cit260/curiousworkmanship/control/SpaceCavesTest.java
+#
+
